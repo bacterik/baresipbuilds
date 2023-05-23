@@ -10,6 +10,7 @@ baresip-z10 & libre-z10 for somewhat unique names.
 Under macOS it's called "com.local-z10.baresip/libre.pkg".
 
 **Modules available under Linux**:
+
 aac.so
 account.so
 alsa.so
